@@ -1,0 +1,6 @@
+Mongoose Schema
+Let's start with the models folder.
+ Inside we will put the schema of our data. 
+ Object databases don't need schemas however it's always good practice to have one. 
+ If you don't want to dig into databases right now just know that here you are defining a model of the data your database will be storing.
+The easiest way to interact with MongoDB is the mongoose library.
